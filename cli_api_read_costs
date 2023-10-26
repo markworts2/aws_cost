@@ -2,4 +2,4 @@ aws ce get-cost-and-usage \
     --time-period Start=2023-10-15,End=2023-10-25 \
     --granularity DAILY \
     --metrics "BlendedCost" "UnblendedCost" "UsageQuantity" --group-by Type=DIMENSION,Key=SERVICE \
->costs.json
+    > costs.json
