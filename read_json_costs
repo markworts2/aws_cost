@@ -1,0 +1,26 @@
+import json
+
+with open('costs.json', 'r') as f:
+  data = json.load(f)
+
+print(data)
+print("\n")
+print(data["ResultsByTime"][0]["TimePeriod"]["Start"])
+print(data["ResultsByTime"][0]["TimePeriod"]["End"])
+print(data["ResultsByTime"][0]["Groups"][0]["Keys"][0])
+print(data["ResultsByTime"][0]["Groups"][0]["Metrics"]["BlendedCost"]["Amount"])
+print(data["ResultsByTime"][0]["Groups"][0]["Metrics"]["BlendedCost"]["Unit"])
+print(data["ResultsByTime"][1]["TimePeriod"]["Start"])
+print(data["ResultsByTime"][1]["TimePeriod"]["End"])
+print(data["ResultsByTime"][1]["Groups"][0]["Keys"][0])
+print(data["ResultsByTime"][1]["Groups"][0]["Metrics"]["BlendedCost"]["Amount"])
+print(data["ResultsByTime"][1]["Groups"][0]["Metrics"]["BlendedCost"]["Unit"])
+print(data["ResultsByTime"][0]["Groups"][1]["Keys"][0])
+print(data["ResultsByTime"][0]["Groups"][1]["Metrics"]["BlendedCost"]["Amount"])
+print(data["ResultsByTime"][0]["Groups"][1]["Metrics"]["BlendedCost"]["Unit"])
+
+for item in data["ResultsByTime"]:
+#	print(item["TimePeriod"]["Start"])
+	for item2 in item["Groups"]:
+		print(item["TimePeriod"]["Start"],item2["Keys"][0],item2["Metrics"]["BlendedCost"]["Amount"],sep=",")
+#		print(item2[0]["Keys"][0],item["Groups"][2]["Metrics"]["BlendedCost"]["Amount"],sep=",")

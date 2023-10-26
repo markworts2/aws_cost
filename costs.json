@@ -1,0 +1,1004 @@
+{
+    "GroupDefinitions": [
+        {
+            "Type": "DIMENSION",
+            "Key": "SERVICE"
+        }
+    ],
+    "ResultsByTime": [
+        {
+            "TimePeriod": {
+                "Start": "2023-10-15",
+                "End": "2023-10-16"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.032258064",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001311433",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001311433",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "12.0032384673",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-16",
+                "End": "2023-10-17"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1344",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.030913978",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.030913978",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.030913978",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Step Functions"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.000000031",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.000000031",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.0000019493",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001287925",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001287925",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "17.0031957078",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-17",
+                "End": "2023-10-18"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "778",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.032258064",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001136842",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001136842",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "14.0032036236",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-18",
+                "End": "2023-10-19"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "511",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.032258064",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001113247",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001113247",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "8.0032104856",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-19",
+                "End": "2023-10-20"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "966",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.032258064",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001113853",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001113853",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "8.0032136824",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-20",
+                "End": "2023-10-21"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "914",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.032258064",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001338569",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001338569",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "18.0032749548",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-21",
+                "End": "2023-10-22"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "491",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.030913978",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.030913978",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.030913978",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001115402",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001115402",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "8.0032273598",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-22",
+                "End": "2023-10-23"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "153",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.032258064",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001372426",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001372426",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "26.00329453",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-23",
+                "End": "2023-10-24"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.01",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "1",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "707",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Cost Explorer"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.14",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.14",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "14",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.032258064",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.032258064",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "EC2 - Other"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0627957023",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0627957023",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.7849462386",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Elastic Compute Cloud - Compute"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.4262",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.4262",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "29",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0001327587",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0001327587",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "26.0032424827",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AmazonCloudWatch"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0000240909",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0000240909",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.0000481809",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        },
+        {
+            "TimePeriod": {
+                "Start": "2023-10-24",
+                "End": "2023-10-25"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "271",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.022849462",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.022849462",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.022849462",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "EC2 - Other"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0387096795",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0387096795",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.483870969",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Elastic Compute Cloud - Compute"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.5184",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.5184",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "36",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0000274204",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0000274204",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "11.0000647531",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AmazonCloudWatch"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0000291159",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0000291159",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.0000599216",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        }
+    ],
+    "DimensionValueAttributes": []
+}

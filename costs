@@ -1,0 +1,135 @@
+{
+    "GroupDefinitions": [
+        {
+            "Type": "DIMENSION",
+            "Key": "SERVICE"
+        }
+    ],
+    "ResultsByTime": [
+        {
+            "TimePeriod": {
+                "Start": "2023-10-01",
+                "End": "2023-10-23"
+            },
+            "Total": {},
+            "Groups": [
+                {
+                    "Keys": [
+                        "AWS Budgets"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.22",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.22",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "22",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS CloudTrail"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "13425",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Key Management Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.706989236",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.706989236",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.706989236",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "AWS Step Functions"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.000000031",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.000000031",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0.0000019493",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Amazon Simple Storage Service"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.0026528264",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.0026528264",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "301.0703801573",
+                            "Unit": "N/A"
+                        }
+                    }
+                },
+                {
+                    "Keys": [
+                        "Tax"
+                    ],
+                    "Metrics": {
+                        "BlendedCost": {
+                            "Amount": "0.09",
+                            "Unit": "USD"
+                        },
+                        "UnblendedCost": {
+                            "Amount": "0.09",
+                            "Unit": "USD"
+                        },
+                        "UsageQuantity": {
+                            "Amount": "0",
+                            "Unit": "N/A"
+                        }
+                    }
+                }
+            ],
+            "Estimated": true
+        }
+    ],
+    "DimensionValueAttributes": []
+}
